@@ -35,7 +35,9 @@ In machine learning models we generally split the data into training and testing
 4.	We will split the data into training and test.
 ![](Images/Pic10.png)
 We will use LinearRegression function from sklearn.linear_model to build the model on train data and test it on test data.
+
 ![](Images/Pic 11.png)
+
 ![](Images/Pic 12.png)
  
 The R-squared value, also known as the coefficient of determination which is statistical measure that represents the percentage of the variance in the dependent variable i.e., PM2.5 that is explained by the independent variable (x) in a linear regression model is 0.85 
